@@ -15,7 +15,7 @@ Generate strong, secure, and customizable passwords instantly — perfect for ke
 
 ---
 
-## 📸 Preview
+## 📸 Preview of password genrator
 
 <p align="center">  
   <img src="images/output-of-passwordgenerator.png" alt="Password Generator Preview" width="600">  
